@@ -13,9 +13,9 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.Release|x86.ActiveCfg = Release|x86
 		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.Release|x86.Build.0 = Release|x86
-		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.|Any CPU.ActiveCfg = Debug|x86
-		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.|Any CPU.Build.0 = Debug|x86
-		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.|Any CPU.Deploy.0 = Debug|x86
+		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.|Any CPU.ActiveCfg = |Any CPU
+		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.|Any CPU.Build.0 = |Any CPU
+		{5CD44D8E-57CC-4256-92C3-4ABEA7A51749}.|Any CPU.Deploy.0 = |Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -16,3 +16,12 @@ C:\Users\RASHA\Desktop\kamel_Metter\WindowsFormsApplication1\obj\x86\Debug\Windo
 C:\Users\RASHA\Desktop\kamel_Metter\WindowsFormsApplication1\obj\x86\Debug\kamel_Metter.csproj.GenerateResource.Cache
 C:\Users\RASHA\Desktop\kamel_Metter\WindowsFormsApplication1\obj\x86\Debug\kamel_Metter.exe
 C:\Users\RASHA\Desktop\kamel_Metter\WindowsFormsApplication1\obj\x86\Debug\kamel_Metter.pdb
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\bin\kamel_Metter.exe.config
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\bin\kamel_Metter.exe
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\bin\DropDownPanel.dll
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\bin\Microsoft.Win32.TaskScheduler.dll
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\obj\kamel_Metter.csprojResolveAssemblyReference.cache
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\obj\WindowsFormsApplication1.Form1.resources
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\obj\WindowsFormsApplication1.Form3.resources
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\obj\kamel_Metter.csproj.GenerateResource.Cache
+D:\my projects\Windows_Internet_Metter\WindowsFormsApplication1\obj\kamel_Metter.exe

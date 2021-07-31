@@ -43,6 +43,9 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '|AnyCPU' ">
     <OutputPath>bin\\</OutputPath>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == '|AnyCPU' ">
+    <OutputPath>bin\\</OutputPath>
+  </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
   </PropertyGroup>
